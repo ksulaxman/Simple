@@ -4,6 +4,7 @@ class One {
 	{
 		System.out.println("First RElease V1");
 		System.out.println("changed content as mentioned by project lead");
+		System.out.println("Resolving merging conflicts");
 			
 	}
 	
